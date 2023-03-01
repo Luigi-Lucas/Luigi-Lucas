@@ -16,9 +16,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=Luigi-Lucas&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/luigi-lucas-262b04215)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luigi-lucas-262b04215/)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Luigi-Lucas&icon=8&color=7)](https://visitcount.itsvg.in)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff8c00&height=120&section=footer"/>
