@@ -2,6 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff8c00&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Luigi+Lucas;I'm+21+years+old;I'm+from+Brazil;I'm+a+systems+analysis+student;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Luigi-Lucas&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Luigi-Lucas&theme=vision-friendly-dark&hide_border=false)<br/>
@@ -12,8 +13,10 @@
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Luigi-Lucas&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luigi-lucas-262b04215/)
